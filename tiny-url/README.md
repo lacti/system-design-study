@@ -90,6 +90,6 @@ It has a very simple tuple `(hashcode, url)` where `hashcode` is 7 characters an
 ## Questions
 
 - What's happened while scaling up and down?
-- Is this system generated the same tinyURL from the same input URLs?
+- Could you this system generated the same tinyURL from the same input URLs?
 - Could you give the TTL to tinyURL?
 - Could you reduce more length from your tinyURL?
